@@ -1,7 +1,7 @@
 {
-  "name": "teddys-crews",
-  "version": "0.1.0",
-  "description": "Phaser game made in typescript, using Digisensitive Boilerplate",
+  "name": "teddys-crews-combo",
+  "version": "1.0",
+  "description": "Phaser combo sample of a game I'm working on, using Digisensitive Boilerplate",
   "keywords": [
     "Phaser",
     "Phaser 3",
