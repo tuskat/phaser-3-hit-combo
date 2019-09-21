@@ -1,0 +1,44 @@
+{
+  "name": "teddys-crews",
+  "version": "0.1.0",
+  "description": "Phaser game made in typescript, using Digisensitive Boilerplate",
+  "keywords": [
+    "Phaser",
+    "Phaser 3",
+    "Phaser3",
+    "Html5-game",
+    "TypeScript",
+    "Webpack",
+    "Phaser-game",
+    "Phaser-framework"
+  ],
+  "devDependencies": {
+    "@types/lodash": "^4.14.136",
+    "expose-loader": "0.7.5",
+    "ts-loader": "6.0.4",
+    "typescript": "3.5.2",
+    "webpack": "4.35.2",
+    "webpack-cli": "3.3.5",
+    "webpack-dev-server": "3.7.2"
+  },
+  "dependencies": {
+    "phaser": "^3.19.0"
+  },
+  "scripts": {
+    "dev": "webpack --mode development && webpack-dev-server --mode development",
+    "build": "webpack --mode production && webpack-dev-server --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitsensitive/phaser3-typescript.git"
+  },
+  "author": {
+    "name": "tuskat",
+    "email": "cedric.marcelling@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitsensitive/phaser3-typescript/issues"
+  },
+  "homepage": "https://github.com/digitsensitive/phaser3-typescript#readme"
+}
